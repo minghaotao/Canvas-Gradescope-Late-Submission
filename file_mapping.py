@@ -6,16 +6,20 @@ import pandas as pd
 
 course_url = {
     '5500': 'https://gradescope.com/courses/{Gradescope course ID}/gradebook.csv',
+    '5810': '',
 
 }
 
 canvas_id_map = {"5500": {Canvas Course ID},
+                 "5810": {Canvas Course ID}
     
                  }
 
 assignment_map = {"5500": {"Homework 1 - Submission Time": {Canvas Assignment ID}, "Homework 2 - Submission Time": 10711033,
                            "Homework 3 - Submission Time": 10711034, "Homework 4 - Submission Time": 10711035,
                            "Homework 5 - Submission Time": 10711036, "Homework 6 - Submission Time": 10711037},
+                  "5810": {
+                  }
 
                   }
 
@@ -32,5 +36,7 @@ filters = {"5500": ["First Name", "Last Name", "Name", "SID", "Email", "Sections
                     "Homework 5 - Lateness (H:M:S)",
                     "Homework 6 - Submission Time",
                     "Homework 6 - Lateness (H:M:S)"],
+           "5810": [
+           ]
 
            }
