@@ -5,15 +5,12 @@ import pandas as pd
 # print(df.columns)
 
 course_url = {
-    '5500': 'https://gradescope.com/courses/476584/gradebook.csv',
-    '5810': 'https://gradescope.com/courses/476136/gradebook.csv',
-    '5930': 'https://gradescope.com/courses/476564/gradebook.csv',
+    '5500': 'https://gradescope.com/courses/{Gradescope course ID}/gradebook.csv',
 
 }
 
-canvas_id_map = {"5500": 1694819,
-                 "5810": 1694972,
-                 "5930": 1694798,
+canvas_id_map = {"5500": {Canvas Course ID},
+    
                  }
 
 assignment_map = {"5500": {"Homework 1 - Submission Time": 10711032, "Homework 2 - Submission Time": 10711033,
