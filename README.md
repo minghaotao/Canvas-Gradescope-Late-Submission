@@ -18,7 +18,7 @@ Continue to write...
 
 
 
-#Credits: 
+# Credits: 
 
 Thank you, Ben Rosen, Courseware Developer at UPenn for helping me solve the error message when posting the student's submission time to Canvas-Gradescope assignment. 
 
