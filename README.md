@@ -17,3 +17,13 @@ Continue to write...
 
 
 
+
+#Credits: 
+
+Thank you, Ben Rosen, Courseware Developer at UPenn for helping me solve the error message when posting the student's submission time to Canvas-Gradescope assignment. 
+
+
+Thank you, Ira Winston at Penn Engineering online for helping me figure out how to use Browser Cookies to authenticate Gradescope.  
+
+
+
