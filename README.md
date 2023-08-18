@@ -1,7 +1,7 @@
 # Canvas-Gradescope-Late-Submission
-# Edcause Poster Presentation 2023
+# Educause Poster Presentation 2023
 
-Co-presenting this with Alex Savoth at the Edcause conference in 2023. 
+Co-presenting this with Alex Savoth at the Educause conference in 2023. 
 
 Gradescope is intergraded within Canvas, but it won't pass back the submission time to Canvas. 
 
