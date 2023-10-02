@@ -1,4 +1,3 @@
-
 # Educause Poster Presentation 2023
 
 Co-presenting this with Alex Savoth and Drew Hopkins at the Educause conference in 2023. 
