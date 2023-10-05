@@ -1,3 +1,0 @@
-0 10 * * * {path_to}/run_grade_adjustments.sh
-0 17 * * * {path_to}/run_grade_adjustments.sh
-0 1 * * * {path_to}/run_grade_adjustments.sh
